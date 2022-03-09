@@ -1,0 +1,333 @@
+Waiting for process to complete!
+Created process in index 0 (Parent index: -1, Children: 3)
+Waiting for process to complete!
+Created process in index 1 (Parent index: 0, Children: 1)
+Waiting for process to complete!
+Created process in index 2 (Parent index: 1, Children: 0)
+Deleted process in index 2 (Parent index: 1)
+Deleted process in index 1 (Parent index: 0)
+Waiting for process to complete!
+Created process in index 1 (Parent index: 0, Children: 0)
+Deleted process in index 1 (Parent index: 0)
+Waiting for process to complete!
+Created process in index 1 (Parent index: 0, Children: 5)
+Waiting for process to complete!
+Created process in index 2 (Parent index: 1, Children: 3)
+Waiting for process to complete!
+Created process in index 3 (Parent index: 2, Children: 3)
+Waiting for process to complete!
+Created process in index 4 (Parent index: 3, Children: 3)
+Waiting for process to complete!
+Created process in index 5 (Parent index: 4, Children: 0)
+Deleted process in index 5 (Parent index: 4)
+Waiting for process to complete!
+Created process in index 5 (Parent index: 4, Children: 0)
+Deleted process in index 5 (Parent index: 4)
+Waiting for process to complete!
+Created process in index 5 (Parent index: 4, Children: 3)
+Waiting for process to complete!
+Created process in index 6 (Parent index: 5, Children: 5)
+Waiting for process to complete!
+Created process in index 7 (Parent index: 6, Children: 3)
+Waiting for process to complete!
+Created process in index 8 (Parent index: 7, Children: 1)
+Waiting for process to complete!
+Created process in index 9 (Parent index: 8, Children: 3)
+Waiting for process to complete!
+Created process in index 10 (Parent index: 9, Children: 2)
+Waiting for process to complete!
+Created process in index 11 (Parent index: 10, Children: 3)
+Waiting for process to complete!
+Created process in index 12 (Parent index: 11, Children: 0)
+Deleted process in index 12 (Parent index: 11)
+Waiting for process to complete!
+Created process in index 12 (Parent index: 11, Children: 4)
+Waiting for process to complete!
+Created process in index 13 (Parent index: 12, Children: 5)
+Waiting for process to complete!
+Created process in index 14 (Parent index: 13, Children: 0)
+Deleted process in index 14 (Parent index: 13)
+Waiting for process to complete!
+Created process in index 14 (Parent index: 13, Children: 1)
+Waiting for process to complete!
+Created process in index 15 (Parent index: 14, Children: 0)
+Deleted process in index 15 (Parent index: 14)
+Deleted process in index 14 (Parent index: 13)
+Waiting for process to complete!
+Created process in index 14 (Parent index: 13, Children: 0)
+Deleted process in index 14 (Parent index: 13)
+Waiting for process to complete!
+Created process in index 14 (Parent index: 13, Children: 0)
+Deleted process in index 14 (Parent index: 13)
+Waiting for process to complete!
+Created process in index 14 (Parent index: 13, Children: 0)
+Deleted process in index 14 (Parent index: 13)
+Deleted process in index 13 (Parent index: 12)
+Waiting for process to complete!
+Created process in index 13 (Parent index: 12, Children: 5)
+Waiting for process to complete!
+Created process in index 14 (Parent index: 13, Children: 3)
+Waiting for process to complete!
+Created process in index 15 (Parent index: 14, Children: 4)
+Waiting for process to complete!
+Created process in index 16 (Parent index: 15, Children: 0)
+Deleted process in index 16 (Parent index: 15)
+Waiting for process to complete!
+Created process in index 16 (Parent index: 15, Children: 2)
+Waiting for process to complete!
+Created process in index 17 (Parent index: 16, Children: 5)
+Waiting for process to complete!
+Created process in index 18 (Parent index: 17, Children: 0)
+Deleted process in index 18 (Parent index: 17)
+Waiting for process to complete!
+Created process in index 18 (Parent index: 17, Children: 0)
+Deleted process in index 18 (Parent index: 17)
+Waiting for process to complete!
+Created process in index 18 (Parent index: 17, Children: 2)
+Waiting for process to complete!
+Created process in index 19 (Parent index: 18, Children: 4)
+Waiting for process to complete!
+Created process in index 20 (Parent index: 19, Children: 5)
+Waiting for process to complete!
+Created process in index 21 (Parent index: 20, Children: 3)
+Waiting for process to complete!
+Created process in index 22 (Parent index: 21, Children: 4)
+Waiting for process to complete!
+Created process in index 23 (Parent index: 22, Children: 1)
+Waiting for process to complete!
+Created process in index 24 (Parent index: 23, Children: 2)
+Waiting for process to complete!
+Created process in index 25 (Parent index: 24, Children: 0)
+Deleted process in index 25 (Parent index: 24)
+Waiting for process to complete!
+Created process in index 25 (Parent index: 24, Children: 5)
+Waiting for process to complete!
+Created process in index 26 (Parent index: 25, Children: 4)
+Waiting for process to complete!
+Created process in index 27 (Parent index: 26, Children: 1)
+Waiting for process to complete!
+Created process in index 28 (Parent index: 27, Children: 1)
+Waiting for process to complete!
+Created process in index 29 (Parent index: 28, Children: 5)
+Waiting for process to complete!
+Created process in index 30 (Parent index: 29, Children: 5)
+Waiting for process to complete!
+Created process in index 31 (Parent index: 30, Children: 1)
+Waiting for process to complete!
+Created process in index 32 (Parent index: 31, Children: 2)
+Waiting for process to complete!
+Created process in index 33 (Parent index: 32, Children: 2)
+Waiting for process to complete!
+Created process in index 34 (Parent index: 33, Children: 2)
+Waiting for process to complete!
+Created process in index 35 (Parent index: 34, Children: 5)
+Waiting for process to complete!
+Created process in index 36 (Parent index: 35, Children: 0)
+Deleted process in index 36 (Parent index: 35)
+Waiting for process to complete!
+Created process in index 36 (Parent index: 35, Children: 1)
+Waiting for process to complete!
+Created process in index 37 (Parent index: 36, Children: 0)
+Deleted process in index 37 (Parent index: 36)
+Deleted process in index 36 (Parent index: 35)
+Waiting for process to complete!
+Created process in index 36 (Parent index: 35, Children: 1)
+Waiting for process to complete!
+Created process in index 37 (Parent index: 36, Children: 1)
+Waiting for process to complete!
+Created process in index 38 (Parent index: 37, Children: 0)
+Deleted process in index 38 (Parent index: 37)
+Deleted process in index 37 (Parent index: 36)
+Deleted process in index 36 (Parent index: 35)
+Waiting for process to complete!
+Created process in index 36 (Parent index: 35, Children: 4)
+Waiting for process to complete!
+Created process in index 37 (Parent index: 36, Children: 4)
+Waiting for process to complete!
+Created process in index 38 (Parent index: 37, Children: 1)
+Waiting for process to complete!
+Created process in index 39 (Parent index: 38, Children: 0)
+Deleted process in index 39 (Parent index: 38)
+Deleted process in index 38 (Parent index: 37)
+Waiting for process to complete!
+Created process in index 38 (Parent index: 37, Children: 0)
+Deleted process in index 38 (Parent index: 37)
+Waiting for process to complete!
+Created process in index 38 (Parent index: 37, Children: 2)
+Waiting for process to complete!
+Created process in index 39 (Parent index: 38, Children: 0)
+Deleted process in index 39 (Parent index: 38)
+Waiting for process to complete!
+Created process in index 39 (Parent index: 38, Children: 2)
+Waiting for process to complete!
+Created process in index 40 (Parent index: 39, Children: 4)
+Waiting for process to complete!
+Created process in index 41 (Parent index: 40, Children: 3)
+Waiting for process to complete!
+Created process in index 42 (Parent index: 41, Children: 1)
+Waiting for process to complete!
+Created process in index 43 (Parent index: 42, Children: 0)
+Deleted process in index 43 (Parent index: 42)
+Deleted process in index 42 (Parent index: 41)
+Waiting for process to complete!
+Created process in index 42 (Parent index: 41, Children: 1)
+Waiting for process to complete!
+Created process in index 43 (Parent index: 42, Children: 0)
+Deleted process in index 43 (Parent index: 42)
+Deleted process in index 42 (Parent index: 41)
+Waiting for process to complete!
+Created process in index 42 (Parent index: 41, Children: 1)
+Waiting for process to complete!
+Created process in index 43 (Parent index: 42, Children: 5)
+Waiting for process to complete!
+Created process in index 44 (Parent index: 43, Children: 2)
+Waiting for process to complete!
+Created process in index 45 (Parent index: 44, Children: 4)
+Waiting for process to complete!
+Created process in index 46 (Parent index: 45, Children: 3)
+Waiting for process to complete!
+Created process in index 47 (Parent index: 46, Children: 1)
+Waiting for process to complete!
+Created process in index 48 (Parent index: 47, Children: 0)
+Deleted process in index 48 (Parent index: 47)
+Deleted process in index 47 (Parent index: 46)
+Waiting for process to complete!
+Created process in index 47 (Parent index: 46, Children: 2)
+Waiting for process to complete!
+Created process in index 48 (Parent index: 47, Children: 3)
+Waiting for process to complete!
+Created process in index 49 (Parent index: 48, Children: 0)
+Deleted process in index 49 (Parent index: 48)
+Waiting for process to complete!
+Created process in index 49 (Parent index: 48, Children: 1)
+Waiting for process to complete!
+Created process in index 50 (Parent index: 49, Children: 3)
+Waiting for process to complete!
+Created process in index 51 (Parent index: 50, Children: 0)
+Deleted process in index 51 (Parent index: 50)
+Waiting for process to complete!
+Created process in index 51 (Parent index: 50, Children: 3)
+Waiting for process to complete!
+Created process in index 52 (Parent index: 51, Children: 5)
+Waiting for process to complete!
+Created process in index 53 (Parent index: 52, Children: 0)
+Deleted process in index 53 (Parent index: 52)
+Waiting for process to complete!
+Created process in index 53 (Parent index: 52, Children: 1)
+Waiting for process to complete!
+Created process in index 54 (Parent index: 53, Children: 0)
+Deleted process in index 54 (Parent index: 53)
+Deleted process in index 53 (Parent index: 52)
+Waiting for process to complete!
+Created process in index 53 (Parent index: 52, Children: 5)
+Waiting for process to complete!
+Created process in index 54 (Parent index: 53, Children: 2)
+Waiting for process to complete!
+Created process in index 55 (Parent index: 54, Children: 4)
+Waiting for process to complete!
+Created process in index 56 (Parent index: 55, Children: 1)
+Waiting for process to complete!
+Created process in index 57 (Parent index: 56, Children: 4)
+Waiting for process to complete!
+Created process in index 58 (Parent index: 57, Children: 5)
+Waiting for process to complete!
+Created process in index 59 (Parent index: 58, Children: 5)
+Waiting for process to complete!
+Created process in index 60 (Parent index: 59, Children: 4)
+Waiting for process to complete!
+Created process in index 61 (Parent index: 60, Children: 5)
+Waiting for process to complete!
+Created process in index 62 (Parent index: 61, Children: 4)
+Waiting for process to complete!
+Created process in index 63 (Parent index: 62, Children: 2)
+Waiting for process to complete!
+Created process in index 64 (Parent index: 63, Children: 1)
+Waiting for process to complete!
+Created process in index 65 (Parent index: 64, Children: 1)
+Waiting for process to complete!
+Created process in index 66 (Parent index: 65, Children: 3)
+Waiting for process to complete!
+Created process in index 67 (Parent index: 66, Children: 3)
+Waiting for process to complete!
+Created process in index 68 (Parent index: 67, Children: 1)
+Waiting for process to complete!
+Created process in index 69 (Parent index: 68, Children: 5)
+Waiting for process to complete!
+Created process in index 70 (Parent index: 69, Children: 0)
+Deleted process in index 70 (Parent index: 69)
+Waiting for process to complete!
+Created process in index 70 (Parent index: 69, Children: 1)
+Waiting for process to complete!
+Created process in index 71 (Parent index: 70, Children: 4)
+Waiting for process to complete!
+Created process in index 72 (Parent index: 71, Children: 3)
+Waiting for process to complete!
+Created process in index 73 (Parent index: 72, Children: 5)
+Waiting for process to complete!
+Created process in index 74 (Parent index: 73, Children: 3)
+Waiting for process to complete!
+Created process in index 75 (Parent index: 74, Children: 5)
+Waiting for process to complete!
+Created process in index 76 (Parent index: 75, Children: 4)
+Waiting for process to complete!
+Created process in index 77 (Parent index: 76, Children: 1)
+Waiting for process to complete!
+Created process in index 78 (Parent index: 77, Children: 3)
+Waiting for process to complete!
+Created process in index 79 (Parent index: 78, Children: 0)
+Deleted process in index 79 (Parent index: 78)
+Waiting for process to complete!
+Created process in index 79 (Parent index: 78, Children: 2)
+Waiting for process to complete!
+Created process in index 80 (Parent index: 79, Children: 1)
+Waiting for process to complete!
+Created process in index 81 (Parent index: 80, Children: 0)
+Deleted process in index 81 (Parent index: 80)
+Deleted process in index 80 (Parent index: 79)
+Waiting for process to complete!
+Created process in index 80 (Parent index: 79, Children: 3)
+Waiting for process to complete!
+Created process in index 81 (Parent index: 80, Children: 1)
+Waiting for process to complete!
+Created process in index 82 (Parent index: 81, Children: 3)
+Waiting for process to complete!
+Created process in index 83 (Parent index: 82, Children: 4)
+Waiting for process to complete!
+Created process in index 84 (Parent index: 83, Children: 1)
+Waiting for process to complete!
+Created process in index 85 (Parent index: 84, Children: 2)
+Waiting for process to complete!
+Created process in index 86 (Parent index: 85, Children: 0)
+Deleted process in index 86 (Parent index: 85)
+Waiting for process to complete!
+Created process in index 86 (Parent index: 85, Children: 3)
+Waiting for process to complete!
+Created process in index 87 (Parent index: 86, Children: 1)
+Waiting for process to complete!
+Created process in index 88 (Parent index: 87, Children: 4)
+Waiting for process to complete!
+Created process in index 89 (Parent index: 88, Children: 5)
+Waiting for process to complete!
+Created process in index 90 (Parent index: 89, Children: 4)
+Waiting for process to complete!
+Created process in index 91 (Parent index: 90, Children: 3)
+Waiting for process to complete!
+Created process in index 92 (Parent index: 91, Children: 1)
+Waiting for process to complete!
+Created process in index 93 (Parent index: 92, Children: 3)
+Waiting for process to complete!
+Created process in index 94 (Parent index: 93, Children: 0)
+Deleted process in index 94 (Parent index: 93)
+Waiting for process to complete!
+Created process in index 94 (Parent index: 93, Children: 4)
+Waiting for process to complete!
+Created process in index 95 (Parent index: 94, Children: 4)
+Waiting for process to complete!
+Created process in index 96 (Parent index: 95, Children: 4)
+Waiting for process to complete!
+Created process in index 97 (Parent index: 96, Children: 3)
+Waiting for process to complete!
+Created process in index 98 (Parent index: 97, Children: 2)
+Waiting for process to complete!
+Created process in index 99 (Parent index: 98, Children: 1)
+No free PCB index found!!!!
